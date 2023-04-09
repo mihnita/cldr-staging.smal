@@ -10,11 +10,13 @@
 	<version>42.0</version>
 	<name>CLDR Staging</name>
 	<packaging>pom</packaging>
+
 	<licenses>
 		<license>
 			<name>Unicode-DFS-2016</name>
 		</license>
 	</licenses>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
